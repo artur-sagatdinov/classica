@@ -1,0 +1,31 @@
+/* All custom fonts are defined here */
+
+@font-face {
+    font-family: 'Hezaedrus-Medium';
+    src: url(../fonts/Hezaedrus-Medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Hezaedrus-Regular';
+    src: url(../fonts/Hezaedrus-Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Franko-Light';
+    src: url(../fonts/Franko-Lifght.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Franko-Medium';
+    src: url(../fonts/Franko-Medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Franko-Bold';
+    src: url(../fonts/Franko-Bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Franko-Bold-Italic';
+    src: url(../fonts/Franko-Bold-Italic.woff2) format('woff2');
+}
